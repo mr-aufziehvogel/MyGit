@@ -3,6 +3,6 @@ body {
     color: white;
 }
 
-#centered {
+div#centered {
     margin: 0 auto;
 }
